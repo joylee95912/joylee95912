@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on tossbank
 - 🌱 I’m learning React.js, TypeScript, Kotlin, Hadoop, Airflow, Spark else**
-- 📝 I write blogs on [blog]([https://devblog-frontend-joylee.vercel.app/])
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%EC%8B%A0%EC%95%A0-%EC%9D%B4-04a253227/)
 
 ---
